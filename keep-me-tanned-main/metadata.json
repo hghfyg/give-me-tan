@@ -1,0 +1,7 @@
+{
+  "name": "Keep Me Tanned",
+  "description": "Din ultimata sol-kompis. Få koll på UV-index, smarta soltimer-råd, AI-genererade spellistor och hitta närmaste strand.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
